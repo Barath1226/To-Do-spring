@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, 
+body { height: 100%; 
+}
+body { margin: 0;
+     font-family: Roboto,
+      "Helvetica Neue",
+       sans-serif;
+     }
+body{
+    //height: 100%;
+    background-image: linear-gradient(rgb(182, 165, 165),rgb(152, 202, 14),lightblue);
+    overflow: hidden;
+    //background-image: url("https://img.freepik.com/free-vector/spot-light-background_1284-4685.jpg?t=st=1651650058~exp=1651650658~hmac=7a2543c29f8805ae414d1d22604f0c2d20ccc20a1c311d5f68806431f2c0f9f8&w=740");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+

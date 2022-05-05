@@ -1,0 +1,37 @@
+.card{
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #F3CC3C;
+}
+.card,
+h6{
+    color: black;
+}
+
+label{
+    color: black;
+}
+button{
+    background-color: red;
+    margin-left: 42%;
+}
+a:link{
+    text-align: center;
+}
+#tag1{
+    background-repeat: no-repeat;
+    position: relative;
+    top: 70px;
+}
+.container{
+    position: absolute;
+    top:350px;
+    right: 100px;
+}
+
+

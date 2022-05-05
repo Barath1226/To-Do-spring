@@ -1,0 +1,23 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  #mvButton{
+      position: absolute;
+      margin-left: 1250px;
+      margin-bottom: 5%;
+  }
+
+  #txt{
+    background-color:  #F3CC3C;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1cm;
+    padding-top: 10px;
+    font-weight: normal;
+    color:black;
+    display: inline-flex;
+  }
+  #para{
+    text-align: center;
+  }
